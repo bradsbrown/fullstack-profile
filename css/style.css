@@ -1,0 +1,41 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: 300;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h2 {
+  font-weight: 300;
+  color: #7d97ad;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+hr {
+  border-top: 3px solid #7d97ad;
+}
+
+.app-name {
+  font-size: 32px;
+}
+
+.logo {
+  margin-top: 40px;
+  margin-left: 10px;
+}
